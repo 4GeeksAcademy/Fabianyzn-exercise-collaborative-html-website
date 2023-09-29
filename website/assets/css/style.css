@@ -1,18 +1,13 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 
-#jumbotron-title h1, h2{
-    font-size: 180px;
+#jumbotron-title h1{
+    font-size: 140px;
+    margin-top: 50px;
 }
 
 #jumbotron-title h2{
-    font-size: 110px;
+    font-size: 90px;
     padding-top: 50px;
-}
-
-#jumbotron-title span {
-    width: 100%;
-    margin-left: -15px; 
-    margin-right: -15px; 
 }
